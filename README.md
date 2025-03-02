@@ -2,11 +2,11 @@
 
 This project explores various Machine Learning models for sentiment classification on the IMDB dataset. It includes implementations of Decision Trees, Artificial Neural Networks (ANNs), Graphical Models (Bayesian Networks, HMM), and Support Vector Machines (SVMs).
 
-## :bar_chart: Dataset
+## Dataset :bar_chart:
 
 The project utilizes the [IMDB dataset](https://huggingface.co/datasets/stanfordnlp/imdb) from Hugging Face Datasets. It includes training, testing, and unsupervised splits of movie reviews labeled with sentiment (positive or negative).
 
-## :robot: Models
+## Models :robot:
 
 The following models are implemented and evaluated:
 
@@ -18,14 +18,14 @@ The following models are implemented and evaluated:
 - **Support Vector Machine:** A powerful model for classification using hyperplanes.
 - **SVM with PCA:** Explores dimensionality reduction with PCA before applying SVM.
 
-## :rocket: Usage
+## Usage :rocket:
 
 1. **Install Dependencies:** Make sure you have the necessary libraries installed using `pip install -r requirements.txt`.
 2. **Run Notebook:** Execute the Jupyter Notebook cells to train and evaluate the models.
 3. **Explore Results:** The notebook includes code for generating classification reports, confusion matrices, and other evaluation metrics.
 
 
-## :clipboard: Results
+## Results :clipboard:
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |---|---|---|---|---|
@@ -38,12 +38,24 @@ The following models are implemented and evaluated:
 **Note:** The results presented in the table are just examples and may vary depending on the specific implementation and hyperparameter tuning.
 
 
-## :handshake: Contributing
+## Team Members and Their Contributions :busts_in_silhouette:
+
+| Team Member | Contribution |
+|---|---|
+| [Member 1 Name] | [Contribution description] |
+| [Member 2 Name] | [Contribution description] |
+| [Member 3 Name] | [Contribution description] |
+| ... | ... |
+
+**Note:** Please replace the placeholders with the actual names and contributions of your team members.
+
+
+## Contributing :handshake:
 
 Contributions are welcome! Feel free to open issues or pull requests for improvements, bug fixes, or new features.
 
 
-## :pray: Acknowledgements
+## Acknowledgements :pray:
 
 We would like to acknowledge the following resources and libraries that were instrumental in the development of this project:
 
@@ -51,7 +63,7 @@ We would like to acknowledge the following resources and libraries that were ins
 - **Scikit-learn:** For providing machine learning algorithms and tools.
 - **Pgmpy:** For providing tools for working with graphical models.
 
-## :scroll: License
+## License
 
 This project is licensed under the MIT License.
 
