@@ -12,11 +12,10 @@ The following models are implemented and evaluated:
 
 - **Decision Tree:** A classic tree-based model for classification.
 - **ANN:** A feedforward neural network using scikit-learn's MLPClassifier.
+- **Naive Bayes:** sentiment (S) as dependent on conditionally independent features (F₁, F₂, ..., Fₙ) with P(S | F₁, F₂, ..., Fₙ) = P(S) × ∏ᵢ P(Fᵢ | S) / P(F₁, F₂, ..., Fₙ), incorporating sparse feature handling and Laplace smoothing. A Genetic Algorithm optimizes this by encoding features as binary chromosomes, using a fitness function, mutation, crossover, and tournament selection across 50–200 individuals over 50–100 generations
 - **Graphical Models:**
     - **Bayesian Network:** A probabilistic graphical model representing conditional dependencies between features and sentiment.
     - **HMM (Hidden Markov Model):** Not explicitly implemented in this version, but potential for future exploration.
-- **Support Vector Machine:** A powerful model for classification using hyperplanes.
-- **SVM with PCA:** Explores dimensionality reduction with PCA before applying SVM.
 
 ## Usage :rocket:
 
