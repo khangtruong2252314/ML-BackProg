@@ -39,11 +39,11 @@ The following models are implemented and evaluated:
 
 | Team Member | Contribution |
 |---|---|
-| Truong Minh Khang | [Contribution description] |
+| Truong Minh Khang | Decision tree, ANN |
 | Nguyen Minh Khoi | Naive Bayes with Genetic Algorithm, Bayesian Network |
-| Dinh Ba Khanh | [Contribution description] |
-| Tran Nguyen Anh Khoi | [Contribution description] |
-| Tran Chi Tai | [Contribution description] |
+| Dinh Ba Khanh | README and documentation |
+| Tran Nguyen Anh Khoi | Github repository management |
+| Tran Chi Tai | Google Colab environment setting up |
 
 
 
