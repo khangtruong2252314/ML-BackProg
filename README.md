@@ -65,5 +65,4 @@ We would like to acknowledge the following resources and libraries that were ins
 This project is licensed under the MIT License.
 
 
-[![View on GitHub]([https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub](https://github.com/khangtruong2252314/ML-BackProg)](Main-project) 
-*Link*
+[![View on GitHub]([https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub](https://github.com/khangtruong2252314/ML-BackProg)](Main-project)]
