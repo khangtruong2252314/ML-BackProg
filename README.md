@@ -31,7 +31,8 @@ The following models are implemented and evaluated:
 |---|---|---|---|---|
 | Decision Tree | 0.85 | 0.86 | 0.84 | 0.85 |
 | ANN | 0.88 | 0.89 | 0.87 | 0.88 |
-| Naive Bayes | 0.84| 0.84 | 0.84 | 0.84 |
+| Naive Bayes | 0.85| 0.85 | 0.85 | 0.85 |
+| Naive Bayes with Genetic Algorithm | 0.86| 0.86 | 0.86 | 0.86 |
 | Bayesian Network | 0.75 | 0.76 | 0.74 | 0.75 |
 | HMM | 0.87 | 0.88 | 0.86 | 0.87 |
 
