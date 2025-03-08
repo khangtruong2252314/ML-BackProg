@@ -12,7 +12,7 @@ The following models are implemented and evaluated:
 
 - **Decision Tree:** A classic tree-based model for classification.
 - **ANN:** A feedforward neural network using scikit-learn's MLPClassifier.
-- **Naive Bayes:** sentiment (S) as dependent on conditionally independent features (F₁, F₂, ..., Fₙ) with P(S | F₁, F₂, ..., Fₙ) = P(S) × ∏ᵢ P(Fᵢ | S) / P(F₁, F₂, ..., Fₙ), incorporating sparse feature handling and Laplace smoothing. A Genetic Algorithm optimizes this by encoding features as binary chromosomes, using a fitness function, mutation, crossover, and tournament selection across 50–200 individuals over 50–100 generations
+- **Naive Bayes:** sentiment (S) as dependent on conditionally independent features $\left(F_1, F_2, ..., F_n\right)$ with P(S | F₁, F₂, ..., Fₙ) = P(S) × ∏ᵢ P(Fᵢ | S) / P(F₁, F₂, ..., Fₙ), incorporating sparse feature handling and Laplace smoothing. A Genetic Algorithm optimizes this by encoding features as binary chromosomes, using a fitness function, mutation, crossover, and tournament selection across 50–200 individuals over 50–100 generations
 - **Graphical Models:**
     - **Bayesian Network:** A probabilistic graphical model representing conditional dependencies between features and sentiment.
     - **HMM (Hidden Markov Model):** sentiment as a sequence of hidden states (S₁, S₂, ..., Sₜ) emitting observable features (O₁, O₂, ..., Oₜ), with dependencies defined by transition probabilities P(Sₜ | Sₜ₋₁) and emission probabilities P(Oₜ | Sₜ). The model captures temporal dynamics in sentiment, using the Viterbi algorithm for state sequence inference and the Baum-Welch algorithm for training parameters based on observed feature sequences.
