@@ -1,6 +1,6 @@
 # ML-BackProg
 
-This project explores various Machine Learning models for sentiment classification on the IMDB dataset. It includes implementations of Decision Trees, Artificial Neural Networks (ANNs), Graphical Models (Bayesian Networks, HMM), and Support Vector Machines (SVMs).
+This project explores various Machine Learning models for sentiment classification on the IMDB dataset. It includes implementations of Decision Trees, Artificial Neural Networks (ANNs) Naive Bayes with Genetic Algorithm and Graphical Models (Bayesian Networks, HMM).
 
 ## Dataset :bar_chart:
 
@@ -31,12 +31,9 @@ The following models are implemented and evaluated:
 |---|---|---|---|---|
 | Decision Tree | 0.85 | 0.86 | 0.84 | 0.85 |
 | ANN | 0.88 | 0.89 | 0.87 | 0.88 |
-| Naive Bayes | 0.85| 0.85 | 0.85 | 0.85 |
 | Naive Bayes with Genetic Algorithm | 0.86| 0.86 | 0.86 | 0.86 |
 | Bayesian Network | 0.75 | 0.76 | 0.74 | 0.75 |
 | HMM | 0.87 | 0.88 | 0.86 | 0.87 |
-
-**Note:** The results presented in the table are just examples and may vary depending on the specific implementation and hyperparameter tuning.
 
 
 ## Team Members and Their Contributions :busts_in_silhouette:
@@ -44,7 +41,7 @@ The following models are implemented and evaluated:
 | Team Member | Contribution |
 |---|---|
 | Truong Minh Khang | [Contribution description] |
-| Nguyen Minh Khoi | [Contribution description] |
+| Nguyen Minh Khoi | Naive Bayes with Genetic Algorithm, Bayesian Network |
 | Dinh Ba Khanh | [Contribution description] |
 | Tran Nguyen Anh Khoi | [Contribution description] |
 | Tran Chi Tai | [Contribution description] |
