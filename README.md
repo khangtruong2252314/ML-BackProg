@@ -42,11 +42,11 @@ The following models are implemented and evaluated:
 
 | Team Member | Contribution |
 |---|---|
-| [Truong Minh Khang] | [Contribution description] |
-| [Nguyen Minh Khoi] | [Contribution description] |
-| [Dinh Ba Khanh] | [Contribution description] |
-| [Tran Nguyen Anh Khoi] | [Contribution description] |
-| [Tran Chi Tai] | [Contribution description] |
+| Truong Minh Khang | [Contribution description] |
+| Nguyen Minh Khoi | [Contribution description] |
+| Dinh Ba Khanh | [Contribution description] |
+| Tran Nguyen Anh Khoi | [Contribution description] |
+| Tran Chi Tai | [Contribution description] |
 
 **Note:** Please replace the placeholders with the actual names and contributions of your team members.
 
