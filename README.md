@@ -48,7 +48,6 @@ The following models are implemented and evaluated:
 | Tran Nguyen Anh Khoi | [Contribution description] |
 | Tran Chi Tai | [Contribution description] |
 
-**Note:** Please replace the placeholders with the actual names and contributions of your team members.
 
 
 ## Contributing :handshake:
