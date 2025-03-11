@@ -37,13 +37,13 @@ The following models are implemented and evaluated:
 
 ## Team Members and Their Contributions :busts_in_silhouette:
 
-| Team Member | Contribution |
+| Team Member | Contribution | Distribution |
 |---|---|
-| Truong Minh Khang | Decision tree, ANN |
-| Nguyen Minh Khoi | Naive Bayes with Genetic Algorithm, Bayesian Network |
-| Dinh Ba Khanh | README and documentation |
-| Tran Nguyen Anh Khoi | Github repository management |
-| Tran Chi Tai | Google Colab environment setting up |
+| Truong Minh Khang | Decision tree, ANN | 100% |
+| Nguyen Minh Khoi | Naive Bayes with Genetic Algorithm, Bayesian Network | 100% |
+| Dinh Ba Khanh | README and documentation | 100% |
+| Tran Nguyen Anh Khoi | Github repository management | 100% |
+| Tran Chi Tai | Google Colab environment setting up | 100% |
 
 
 
