@@ -38,7 +38,7 @@ The following models are implemented and evaluated:
 ## Team Members and Their Contributions :busts_in_silhouette:
 
 | Team Member | Contribution | Distribution |
-|---|---|
+|---|---|---|
 | Truong Minh Khang | Decision tree, ANN | 100% |
 | Nguyen Minh Khoi | Naive Bayes with Genetic Algorithm, Bayesian Network | 100% |
 | Dinh Ba Khanh | README and documentation | 100% |
