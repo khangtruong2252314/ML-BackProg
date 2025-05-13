@@ -6,7 +6,7 @@ This project explores various classical Machine Learning techniques for classifi
 
 ## Dataset \:bar\_chart:
 
-This project uses curated datasets suitable for binary or multi-class classification tasks. Each dataset contains feature vectors and corresponding labels. Example datasets include subsets of UCI or IMDB sentiment data, preprocessed for use with the models below.
+This project uses curated datasets *pneumonia* suitable for binary or multi-class classification tasks. Each dataset contains feature vectors and corresponding labels. The dataset is available on Kaggle, via the [link](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) 
 
 ## Models \:robot:
 
