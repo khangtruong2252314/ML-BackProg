@@ -52,11 +52,11 @@ The following models are implemented and evaluated:
 
 | Team Member | Contribution                                  | Distribution |
 | ----------- | --------------------------------------------- | ------------ |
-| Member A    | SVM, Bagging, Boosting                        | 100%         |
-| Member B    | PCA, LDA, Logistic Regression                 | 100%         |
-| Member C    | CRF, Entropy model                            | 100%         |
-| Member D    | Documentation & results visualization         | 100%         |
-| Member E    | Project environment setup & GitHub management | 100%         |
+| Truong Minh Khang    | SVM, Bagging, Boosting                        | 100%         |
+| Nguyen Minh Khoi    | PCA, LDA, Logistic Regression                 | 100%         |
+| Dinh Ba Khanh    | CRF, Entropy model                            | 100%         |
+| Tran Nguyen Anh Khoi    | Documentation & results visualization         | 100%         |
+| Tran Chi Tai    | Project environment setup & GitHub management | 100%         |
 
 ## Contributing \:handshake:
 
